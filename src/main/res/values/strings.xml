@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">z kotlin extensions</string>
+    <string name="dialog_password">password</string>
+    <string name="dialog_password_verify">verify password</string>
+
+    <string name="cannot_be_empty">cannot be empty</string>
+    <string name="passwords_dont_match">passwords don\'t match</string>
+
+</resources>
